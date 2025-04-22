@@ -16,6 +16,7 @@
     <!-- sp4.2 -->
     <!-- sp5.1 -->
     <!-- sp5.2 -->
+    <!-- sp6.1 -->
     <dependencies>
         <dependency>
             <groupId>com.miglayout</groupId>
