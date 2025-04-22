@@ -13,6 +13,7 @@
     </properties>
     <!-- sp3.2 -->
     <!-- sp4.1 -->
+    <!-- sp4.2 -->
     <dependencies>
         <dependency>
             <groupId>com.miglayout</groupId>
