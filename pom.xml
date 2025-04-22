@@ -12,6 +12,7 @@
         <exec.mainClass>com.daipc.UI.Login</exec.mainClass>
     </properties>
     <!-- sp3.2 -->
+    <!-- sp4.1 -->
     <dependencies>
         <dependency>
             <groupId>com.miglayout</groupId>
